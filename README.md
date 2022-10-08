@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [Backend Feirinha App](https://github.com/digzom/backend_app_feirinha).
 
-:computer: I'm a professional developer since 2020, working with **React, Node, PostgreSQL* and the tooling around this stack.
+:computer: I'm a professional developer since 2020, working with **React, Node, PostgreSQL** and the tooling around this stack.
 
 :heart: Currently I'm into functional programming, learning and focusing in creating good software with **Elixir**.
 
