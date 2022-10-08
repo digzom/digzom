@@ -10,17 +10,17 @@
 
 <br>
 
+In my free time I like to read books and work on my personal projects.
+
+Knowledges that I use in my daily programming life: **React, NextJS, Javascript, Typescript, Clean Code, Elixir, Phoenix, Docker, Kubernetes, CI/CD, automated tests, HTML, CSS, Data Structures, Algorithms.**
+
+<br>
+
 <div align=center>
   <a href="https://github.com/digzom?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digzom&count_private=true&show_icons=true&theme=tokyonight&hide=css,html&langs_count=4&layout=compact" alt="Top langs">
   </a>
 </div>
-
-<br>
-
-In my free time I like to read books and work on my personal projects.
-
-Knowledges that I use in my daily programming life: **React, NextJS, Javascript, Typescript, Clean Code, Elixir, Phoenix, Docker, Kubernetes, CI/CD, automated tests, HTML, CSS, Data Structures, Algorithms.**
 
 ## Reach me:
 
