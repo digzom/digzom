@@ -16,12 +16,6 @@ Knowledges that I use in my daily programming life: **React, NextJS, Javascript,
 
 <br>
 
-<div align=center>
-  <a href="https://github.com/digzom?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digzom&count_private=true&show_icons=true&theme=tokyonight&hide=css,html&langs_count=4&layout=compact" alt="Top langs">
-  </a>
-</div>
-
 ## Reach me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/cyberproblem1)
