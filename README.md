@@ -2,17 +2,11 @@
 
 🔭 I’m currently working on [Backend Feirinha App](https://github.com/digzom/backend_app_feirinha).
 
-:computer: I'm a professional developer since 2020, working with **React, Node, PostgreSQL** and the tooling around this stack.
+:computer: I'm a professional developer since 2020, working with **React, Node, Elixir, Phoenix, PostgreSQL** and the tooling around this stack.
 
 :heart: Currently I'm into functional programming, learning and focusing in creating good software with **Elixir**.
 
-:book: I am currently pursuing a **Bachelor's Degree in Computer Science** and very interesting in **Operating Systems** and data structures.
-
-<br>
-
-In my free time I like to read books and work on my personal projects.
-
-Knowledges that I use in my daily programming life: **React, NextJS, Javascript, Typescript, Clean Code, Elixir, Phoenix, Docker, Kubernetes, CI/CD, automated tests, HTML, CSS, Data Structures, Algorithms.**
+:book: I am currently pursuing a **Bachelor's Degree in Computer Science** and very interesting in **Operating Systems**, data structures and mathematical structures for computer science.
 
 <br>
 
