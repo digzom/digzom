@@ -4,7 +4,7 @@
 
 :heart: Currently I'm into functional programming, learning and focusing in creating good software with **Elixir**.
 
-:book: I am currently pursuing a **Bachelor's Degree in Computer Science** and very interesting in **Operating Systems**, data structures and mathematical structures for computer science.
+:book: I am currently pursuing a **Bachelor's Degree in Computer Science** and I'm very interested in **Operating Systems**, data structures, functional programming and mathematical structures for computer science.
 
 <br>
 
